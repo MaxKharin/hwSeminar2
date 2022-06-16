@@ -1,0 +1,15 @@
+/Users/max/Documents/gb/C#_FirstTest/hwCsharpSeminar2/task4/obj/Debug/net6.0/task4.csproj.AssemblyReference.cache
+/Users/max/Documents/gb/C#_FirstTest/hwCsharpSeminar2/task4/obj/Debug/net6.0/task4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/max/Documents/gb/C#_FirstTest/hwCsharpSeminar2/task4/obj/Debug/net6.0/task4.AssemblyInfoInputs.cache
+/Users/max/Documents/gb/C#_FirstTest/hwCsharpSeminar2/task4/obj/Debug/net6.0/task4.AssemblyInfo.cs
+/Users/max/Documents/gb/C#_FirstTest/hwCsharpSeminar2/task4/obj/Debug/net6.0/task4.csproj.CoreCompileInputs.cache
+/Users/max/Documents/gb/C#_FirstTest/hwCsharpSeminar2/task4/bin/Debug/net6.0/task4
+/Users/max/Documents/gb/C#_FirstTest/hwCsharpSeminar2/task4/bin/Debug/net6.0/task4.deps.json
+/Users/max/Documents/gb/C#_FirstTest/hwCsharpSeminar2/task4/bin/Debug/net6.0/task4.runtimeconfig.json
+/Users/max/Documents/gb/C#_FirstTest/hwCsharpSeminar2/task4/bin/Debug/net6.0/task4.dll
+/Users/max/Documents/gb/C#_FirstTest/hwCsharpSeminar2/task4/bin/Debug/net6.0/task4.pdb
+/Users/max/Documents/gb/C#_FirstTest/hwCsharpSeminar2/task4/obj/Debug/net6.0/task4.dll
+/Users/max/Documents/gb/C#_FirstTest/hwCsharpSeminar2/task4/obj/Debug/net6.0/refint/task4.dll
+/Users/max/Documents/gb/C#_FirstTest/hwCsharpSeminar2/task4/obj/Debug/net6.0/task4.pdb
+/Users/max/Documents/gb/C#_FirstTest/hwCsharpSeminar2/task4/obj/Debug/net6.0/task4.genruntimeconfig.cache
+/Users/max/Documents/gb/C#_FirstTest/hwCsharpSeminar2/task4/obj/Debug/net6.0/ref/task4.dll
