@@ -1,4 +1,5 @@
 .DS_Store
 .idea/
 hwCsharpSeminar2.sln
-/bin
+.dll
+.pbd
